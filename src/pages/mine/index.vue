@@ -31,7 +31,7 @@ export default {
     // name:'notLogin',
     computed:{
     isLogin(){
-      return this.$store.state.isLogin
+      return this.$store.state.isLogin //0退出，1登录
     },
     userNick(){
       return this.$store.state.userNick

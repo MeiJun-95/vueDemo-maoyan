@@ -8,6 +8,7 @@ import movieDetail from '@/pages/movieDetail'
 Vue.use(Router)
 
 export default new Router({
+  mode:'history',
    // routes用来定义路由对象，里面的每一个对象都是一个路由
   routes: [
     {

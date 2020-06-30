@@ -28,9 +28,9 @@ export default {
     }
   },
   methods: {
-    changeTab(type) {
+    changeTab(type) { //这里可以设为value，
       this.activeTab = type
-      this.$emit('menuType', type)
+      this.$emit('menuType', type)//  事件（type，value）?
     }
   }
 }

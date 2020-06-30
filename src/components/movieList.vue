@@ -33,6 +33,12 @@
 export default {
     name: "movieList",
     props: ["mitem"], //通过mitem属性接收父组件的传值
+    // props:{            //这种写法对么？
+    //     mitem:{
+    //         type:object,
+    //         default:null
+    //     }
+    // },
     data(){
         return {};
     }    
