@@ -1,0 +1,19 @@
+const movieData={"coming":[
+    {"id":1283276,"haspromotionTag":false,"img":"http://p1.meituan.net/w.h/movie/fcabb91dbae511e8a32af1deeb0c1cec204154.jpg","version":"","nm":"大红包","preShow":false,"sc":0,"globalReleased":false,"wish":36830,"star":"包贝尔,克拉拉,贾冰","rt":"2020-04-30","showst":1,"wishst":0,"day":'4月30日',"week":"周四"},
+    {"id":1280270,"haspromotionTag":false,"img":"http://p0.meituan.net/w.h/moviemachine/0c3f4cd8caf0f0848a54e3081349bdac22615677.jpg","version":"","nm":"魔法学院","preShow":false,"sc":0,"globalReleased":false,"wish":11382,"star":"Laura Megan Stahl,迈克尔·约翰斯顿,本·迪斯金","rt":"2020-05-01","showst":1,"wishst":0,"day":'5月1日',"week":"周五"},
+    {"id":1302281,"haspromotionTag":false,"img":"http://p0.meituan.net/w.h/moviemachine/1d2b4985d0187b437d41a73994ba2e191607376.jpg","version":"","nm":"奇妙王国之魔法奇缘","preShow":false,"sc":0,"globalReleased":false,"wish":6665,"star":"卢瑶,张洋,陈新玥","rt":"2020-05-01","showst":1,"wishst":0,"day":'5月1日',"week":"周五"},
+    {"id":1302405,"haspromotionTag":false,"img":"http://p1.meituan.net/w.h/movie/81fe2197ef930c79624a28cc76c423835264620.png","version":"","nm":"小公主艾薇拉与神秘王国2","preShow":false,"sc":0,"globalReleased":false,"wish":6066,"rt":"2020-05-01","showst":1,"wishst":0,"day":'5月1日',"week":"周五"},
+    {"id":1292570,"haspromotionTag":false,"img":"http://p0.meituan.net/w.h/moviemachine/e10ceb90d2c06d3524d01d573ccf88fb7514998.jpg","version":"","nm":"金禅降魔","preShow":false,"sc":0,"globalReleased":false,"wish":16209,"star":"释小龙,胡军,姚星彤","rt":"2020-05-08","showst":1,"wishst":0,"day":'5月8日',"week":"周五"},
+    {"id":1262874,"haspromotionTag":false,"img":"http://p0.meituan.net/w.h/movie/1907a5af889e44236fd80952980d36e13257090.jpg","version":"","nm":"82号古宅","preShow":false,"sc":0,"globalReleased":false,"wish":4674,"star":"扈天翼,黄心娣,葛天","rt":"2020-05-15","showst":1,"wishst":0,"day":'5月8日',"week":"周五"},
+    {"id":665702,"haspromotionTag":false,"img":"http://p0.meituan.net/w.h/movie/eb37c5b78ec0c14aaad707700fcc1443390529.jpg","version":"","nm":"恋上美人鱼","preShow":false,"sc":0,"globalReleased":false,"wish":962,"star":"赵鸿飞,雷牧","rt":"2020-05-15","showst":1,"wishst":0,"day":'5月15日',"week":"周五"},
+    {"id":1318812,"haspromotionTag":false,"img":"http://p0.meituan.net/w.h/movie/6adbe9c365a3aaadfb65910bc279bf6a3385927.jpg","version":"","nm":"沉香","preShow":false,"sc":0,"globalReleased":false,"wish":573,"star":"朱仲春,尹航,梁靖晨","rt":"2020-05-22","showst":1,"wishst":0,"day":'5月22日',"week":"周五"},
+    {"id":1208919,"haspromotionTag":false,"img":"http://p0.meituan.net/w.h/moviemachine/f31b925aa6febc11140adbba4b966b3f8269247.jpg","version":"","nm":"亲亲哒","preShow":false,"sc":0,"globalReleased":false,"wish":488,"star":"马良博一,卢小路,尹恒","rt":"2020-05-28","showst":1,"wishst":0,"day":'5月28日',"week":"周四"},
+    {"id":247863,"haspromotionTag":false,"img":"http://p0.meituan.net/w.h/movie/a06c36755e3e4e902235e9904cc1551b4677926.jpg","version":"","nm":"印度奇游","preShow":false,"sc":0,"globalReleased":false,"wish":11777,"star":"瑞迪玛·潘迪特,王学兵,潘斌龙","rt":"2020-05","showst":1,"wishst":0,"day":'5月',"week":"待定"}
+],"movieIds":
+    [1283276,1280270,1302281,1302405,1292570,1262874,665702,1318812,1208919,247863,1238922,1298030,1301478,1301774,1241385,1233290,1294417,1197077,1222268,1218142,1218188,343130,1250661,1219866,1277751,1298859,1048268,1212627,1220824,1217023,1211269,461076,1217123,248585,344450,346210,1216053,1298938,1199007,1198213,78380,489894,1230199,342178,1213079,1301444,342485,1241850,1286060,1236599,1212559,341890,1282454,1298349,1203734,1284360,1190383,1219410,1244277,1229298,1217249,1215685,1226583,341370,1218159,1229577,346302,1185170,195,1292606,345810,248940,1259189,1286015,1223030,1229576,346190,1218157,1208645,1247810,1250950,346306,344160,1212538,1278598,1132856,343360,1204092,246040,1257047,1299144,345644,1300027,248908,1250674,1302494,1292500,1229661,1291077,1208258,1261532,1208921,1229373,1263312,1207371,1283507,1301543,1302492,1207303,1215749,1302381,1302486]
+}
+
+
+export default {
+    movieData:movieData
+}

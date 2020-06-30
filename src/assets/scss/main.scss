@@ -1,0 +1,22 @@
+// Mixin有点像C语言的宏（macro），是可以重用的代码块。
+// 使用@mixin命令，定义一个代码块。
+// 使用@include命令，调用这个mixin。
+// mixin的强大之处，在于可以指定参数和缺省值。 
+//  使用的时候，根据需要加入参数：
+@mixin flex-box($direction: row, $justify: center, $align: center) {
+	display: flex;
+	flex-direction: $direction;
+	justify-content: $justify;
+    align-items: $align;
+}
+
+/*
+// eg:
+@mixin left {
+	float: left;
+　　 margin-left: 10px;
+}
+div {
+	@include left;
+}
+*/
